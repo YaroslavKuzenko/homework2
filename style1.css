@@ -1,0 +1,44 @@
+body{
+    font-size: 20px;
+}
+
+li span{
+    text-decoration: underline;
+}
+
+.Arial{
+    font-family: 'Arial'
+}
+
+.pidzaholovok{
+    text-align: justify;
+    font-style: oblique;
+}
+
+.zakresleno{
+    text-decoration: line-through;
+}
+
+.vydileno{
+    background-color: yellowgreen;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+.greenline{
+    height: 2px;
+    background-color: green;
+}
+
+.opys{
+    font-size: 20px;
+    font-style: italic;
+}
+
+footer{
+    text-align: center;
+    font-family: monospace;
+}
